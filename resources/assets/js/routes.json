@@ -1,0 +1,12 @@
+{
+    "": "api\/user",
+    "users.index": "api\/users",
+    "users.create": "api\/users\/create",
+    "users.store": "api\/users",
+    "users.show": "api\/users\/{user}",
+    "users.edit": "api\/users\/{user}\/edit",
+    "users.update": "api\/users\/{user}",
+    "users.destroy": "api\/users\/{user}",
+    "home": "home",
+    "test": "login\/form\/{id}"
+}
